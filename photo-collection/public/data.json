@@ -1,0 +1,101 @@
+{
+  "categories": [
+    { "name": "Все" },
+    { "name": "Море" },
+    { "name": "Горы" },
+    { "name": "Архитектура" },
+    { "name": "Города" }
+  ],
+  "collections": [
+    {
+      "category": 2,
+      "name": "Горы 2020 г.",
+      "photos": [
+        "https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/808465/pexels-photo-808465.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/9754/mountains-clouds-forest-fog.jpg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1303431/pexels-photo-1303431.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ]
+    },
+    {
+      "category": 1,
+      "name": "Море июнь 2023 г.",
+      "photos": [
+        "https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/918642/pexels-photo-918642.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/38238/maldives-ile-beach-sun-38238.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/176400/pexels-photo-176400.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Париж",
+      "photos": [
+        "https://images.pexels.com/photos/1850619/pexels-photo-1850619.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/161901/paris-sunset-france-monument-161901.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/161853/eiffel-tower-paris-france-tower-161853.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1397518/pexels-photo-1397518.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Архитектура",
+      "photos": [
+        "https://images.pexels.com/photos/417273/pexels-photo-417273.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/135018/pexels-photo-135018.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1758672/pexels-photo-1758672.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1633970/pexels-photo-1633970.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Красивые здания",
+      "photos": [
+        "https://images.pexels.com/photos/208560/pexels-photo-208560.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/425047/pexels-photo-425047.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/417430/pexels-photo-417430.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/8155/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Лондон",
+      "photos": [
+        "https://images.pexels.com/photos/672532/pexels-photo-672532.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/89432/pexels-photo-89432.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1427579/pexels-photo-1427579.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/374815/pexels-photo-374815.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ]
+    },
+    {
+      "category": 1,
+      "name": "Путешествие 2014 г.",
+      "photos": [
+        "https://images.pexels.com/photos/1450372/pexels-photo-1450372.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/3601421/pexels-photo-3601421.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/3426863/pexels-photo-3426863.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/12858512/pexels-photo-12858512.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ]
+    },
+    {
+      "category": 2,
+      "name": "Поездка август 2015 г.",
+      "photos": [
+        "https://images.pexels.com/photos/12797726/pexels-photo-12797726.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1287135/pexels-photo-1287135.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/640907/pexels-photo-640907.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1287133/pexels-photo-1287133.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Рим",
+      "photos": [
+        "https://images.pexels.com/photos/326709/pexels-photo-326709.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/937690/pexels-photo-937690.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/397431/pexels-photo-397431.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/339887/pexels-photo-339887.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ]
+    }
+  ]
+}
